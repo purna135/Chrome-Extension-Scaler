@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "Click Expander",
+    "version": "1.0",
+    "description": "Clicks on all course-info-accordion-btn elements",
+    "action": {
+      "default_popup": "popup.html"
+    },
+    "permissions": ["activeTab", "scripting", "clipboardWrite"]
+  }
